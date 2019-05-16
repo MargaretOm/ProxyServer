@@ -1,0 +1,7 @@
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\work\Марго материалы\4 сем\КСиС\LR4\Proxy\Proxy\obj\Debug\Proxy.pdb
